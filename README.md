@@ -36,7 +36,7 @@ npm install
 
 ```angular2html
 账号：admin
-密码： admin123
+密码：admin123
 ```
 
 **标题设置**
