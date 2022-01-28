@@ -1,0 +1,42 @@
+{
+  "work": {
+    "quit": "退出",
+    "add": "添加",
+    "save": "保存"
+  },
+  "login": {
+    "username": "用户名",
+    "password": "密码",
+    "login": "登录"
+  },
+  "notice": {
+    "username": "用户名不能为空",
+    "password": "密码不能为空",
+    "loginErr": "账号或密码错误",
+    "employee": "员工名不能为空",
+    "numberEmpty": "当前奖品已抽光了"
+  },
+  "menu": {
+    "employee": "添加员工",
+    "prize": "设置奖品",
+    "main": "主页"
+  },
+  "employee": {
+    "name": "员工名",
+    "add": "添加员工"
+  },
+  "prize": {
+    "add": "添加奖品",
+    "name": "奖品名",
+    "photo": "图片",
+    "number": "奖品数量",
+    "employees": "参与员工",
+    "del": "删除当前奖品"
+  },
+  "lucky": {
+    "number": "数量",
+    "lucky": "抽奖",
+    "noBingo": "无中奖者",
+    "waitOpen": "点击开奖"
+  }
+}

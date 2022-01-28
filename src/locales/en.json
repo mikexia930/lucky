@@ -1,0 +1,42 @@
+{
+  "work": {
+    "quit": "Quit",
+    "add": "Add",
+    "save": "Save"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Login"
+  },
+  "notice": {
+    "username": "Username can not be empty",
+    "password": "password can not be blank",
+    "loginErr": "Incorrect username or password",
+    "employee": "Employee name cannot be empty",
+    "numberEmpty": "Prizes are currently sold out"
+  },
+  "menu": {
+    "employee": "Add employees",
+    "prize": "Set up prizes",
+    "main": "Homepage"
+  },
+  "employee": {
+    "name": "employee name",
+    "add": "Add employees"
+  },
+  "prize": {
+    "add": "Add a prize",
+    "name": "Prize name",
+    "photo": "Picture",
+    "number": "Number of prizes",
+    "employees": "participating employees",
+    "del": "Remove current prize"
+  },
+  "lucky": {
+    "number": "Quantity",
+    "lucky": "luck draw",
+    "noBingo": "no winner",
+    "waitOpen": "Click to draw"
+  }
+}
